@@ -25,7 +25,7 @@ I love solving real problems through clean design and efficient code.
 
 ## 🚀 Some of my Projects
 
-### [UniVent](https://uni-vent-event-app.vercel.app/)
+### [UniVent](https://univent.website/)
 A web app for discovering university events.  
 Built with Vue 3, Nuxt.js, and supabase.  
 Features event listings, filtering, and a clean modern design.
